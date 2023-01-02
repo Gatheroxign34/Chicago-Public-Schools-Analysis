@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <img width="898" alt="Chicago Public School Title" src="https://user-images.githubusercontent.com/94628744/210272501-f3ccef2f-d8a9-4dc1-9f57-d67495ea33d7.png">
-    <title> Chicago Public Schools Data Analysis by Neighborhood and Graduation Rate </title>
 </head>
 <body>
     <h1> Do school districts consider the graduation rate of all students in successful school ranking systems? </h1>
