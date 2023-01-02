@@ -13,7 +13,7 @@
         <p> Tools & Methods: Calculated the difference in percent of special education and English language learners in each school category using SQLite3 aggregate functions.
         Implemented Seaborn and Matplotlib packages to scatterplot the difference in graduation rates between district, charter, independent principal, and academy for urban leadership school categories.</p>
         <p> Analysis: Special education, and English language learners are overlooked in overall school curricula outcomes and effectiveness.
-        <p> Recommendation: Consider graduation rates of special education and English language learners in overall school success rankings. 
+        <p> Recommendation: Consider graduation rates of special education and English language learners in to accurately represent school success rankings. 
 </p>
         <p> 
 </body>
